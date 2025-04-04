@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Anna Pinneo | Product Manager
+title: Anna Pinneo - Product Manager
 ---
 
 # Hi, I'm Anna.
