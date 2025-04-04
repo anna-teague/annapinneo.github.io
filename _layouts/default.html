@@ -23,9 +23,41 @@
     a:hover {
       text-decoration: underline;
     }
+    nav {
+  background-color: #f9f9f9;
+  border-bottom: 1px solid #eee;
+  padding: 1rem 0;
+}
+nav ul {
+  list-style: none;
+  padding: 0;
+  display: flex;
+  gap: 1rem;
+  justify-content: center;
+  margin: 0;
+}
+nav a {
+  text-decoration: none;
+  color: #333;
+  font-weight: bold;
+}
+nav a:hover {
+  color: #0066cc;
+}
   </style>
 </head>
 <body>
-  {{ content }}
+  <nav>
+    <ul>
+      <li><a href="/index">Home</a></li>
+      <li><a href="/philosophy">Philosophy</a></li>
+      <li><a href="/case-study-timekeeping">Case Study</a></li>
+      <li><a href="/about">About</a></li>
+    </ul>
+  </nav>
+
+  <main>
+    {{ content }}
+  </main>
 </body>
 </html>
