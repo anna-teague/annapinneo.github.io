@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Anna Pinneo - Product Manager
+title: Anna Pinneo | Product Manager
 ---
 
 # Hi, I'm Anna.
@@ -13,6 +13,6 @@ I'm a product manager who brings clarity, structure, and empathy to complex syst
 - Listening closely and leading with clarity
 - Long-term product health > short-term wins
 
-➡️ [Read more about how I think about product](philosophy.md)
-
-➡️ [See case studies of things I've shipped](case-study-timekeeping.md)
+➡️ [Read more about how I think about product](philosophy.md)  
+➡️ [See a case study](case-study-timekeeping.md)  
+➡️ [About me / Contact](about.md)
