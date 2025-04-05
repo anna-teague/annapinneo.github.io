@@ -16,7 +16,7 @@ That curiosity — plus a tendency to ask endless questions — eventually led m
 
 After graduation, I worked in Tier 1 and 2 IT support, where I found something surprising: I loved help desk work. I loved helping people, talking through their frustrations, figuring out the real issue under the surface. Honestly, I liked it more than the hands-on field work. Give me a desk, a headset, and a line of people with computer problems, and I’m happy.
 
-Then I landed at my current company as a project manager. The product was 20 years old, and the development style felt about the same age. There wasn’t a roadmap, or planning, or product strategy — just client requests and a dev team trying to stay afloat. It didn’t take long for me to start asking questions: Why are we building this? How did this feature happen? What’s the actual problem we’re solving?
+Then I landed at my current company as a project manager. The product was 20 years old, and the development style felt about the same age. There wasn’t a roadmap, or planning, or product strategy — just customer requests and a dev team trying to stay afloat. It didn’t take long for me to start asking questions: Why are we building this? How did this feature happen? What’s the actual problem we’re solving?
 
 When I couldn’t find answers, I started making better ones.
 
