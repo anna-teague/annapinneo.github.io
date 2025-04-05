@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Case Study: Planning & Prioritization
+title: "Case Study: Planning & Prioritization"
 ---
 
 # Building a Planning Model from the Ground Up
@@ -14,44 +14,51 @@ As a result:
 - The platform experience became fragmented and inconsistent  
 - Engineering was frequently pulled into ad-hoc work  
 - Clients learned to expect custom features as a default  
-- Internal teams lacked visibility into what was being built — or why
+- Internal teams lacked visibility into what was being built — or why  
 
+---
 
 ## Approach
 
 ### System Mapping & Process Design
 
-I led a full analysis of how work was sourced, requested, and delivered. Through collaboration with support, sales, and engineering, I mapped current-state request flows and identified breakdowns across intake, evaluation, and prioritization.
+I led a comprehensive review of how development work was sourced, requested, and delivered. Through cross-functional interviews and analysis, I mapped existing workflows and identified friction points across intake, evaluation, and prioritization.
 
-I then designed and implemented:
+I then designed and introduced:
 
 - A centralized intake model for client requests  
 - A collaborative scoring system to assess value and feasibility  
-- A biannual prioritization framework aligned with company and product strategy  
+- A biannual prioritization process aligned to company goals and product strategy  
 
 ### Cross-Functional Implementation
 
-To ensure consistency and adoption:
+To ensure successful adoption:
 
-- I developed clear documentation, visual scoring tools, and request flow diagrams  
-- Facilitated collaborative evaluation sessions across departments  
-- Worked with engineering leadership to integrate effort estimates into prioritization  
+- I developed documentation, visual scoring tools, and request flow diagrams  
+- Facilitated working sessions across teams to evaluate requests collaboratively  
+- Partnered with engineering leadership to integrate effort estimates into scoring  
 
 ### Change Management & Stakeholder Alignment
 
-Shifting from a reactive model required both structural and cultural change. I partnered with account teams to communicate the shift to clients and set new expectations around feature evaluation. Internally, I facilitated alignment sessions to help teams understand how and why the new process worked — and how it would benefit them long-term.
+Shifting away from a reactive model required structural and cultural change. I worked closely with client-facing teams to communicate the new model, retrain expectations, and position the shift as a strategic improvement.
+
+Internally, I led sessions to build alignment around how the process worked — and why it mattered — so teams could participate consistently and with clarity.
+
+---
 
 ## Outcomes
 
 Within the first two prioritization cycles:
 
-- Ad-hoc development requests decreased by more than 80%  
-- Engineering gained sustained time for roadmap features and technical investment  
-- Internal teams aligned around a shared language for product value  
-- Clients began offering clearer, more strategic feedback  
+- Ad-hoc development requests decreased by over 80%  
+- Engineering gained sustained focus on roadmap and technical priorities  
+- Internal teams shared a common language for product value and feasibility  
+- Clients began offering more thoughtful and actionable feedback  
+
+---
 
 ## Reflection
 
-This initiative redefined how product decisions were made across the company. It wasn’t just about saying “no” more effectively — it was about introducing a structured way to say “yes” to the right work, with clarity and alignment.
+This initiative reshaped how product decisions were made across the company. It wasn’t about saying “no” more often — it was about building a clear, scalable way to say “yes” to the right work.
 
-It also reinforced the value of durable systems: ones that create visibility, build trust, and scale decision-making beyond a single person or conversation.
+It also reinforced the value of durable systems — ones that support alignment, reduce chaos, and build trust over time.
