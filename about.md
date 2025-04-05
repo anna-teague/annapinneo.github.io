@@ -2,7 +2,7 @@
 layout: default
 title: About Anna
 ---
-<img src="/assets/anna.png" alt="Anna Pinneo giving a double thumbs up" class="headshot" />
+<img src="/assets/anna.png" alt="Anna with two thumbs up" class="headshot" />
 
 # How I Got Here
 
